@@ -1,4 +1,4 @@
 Hello World!
-some new content added for conflict.
+erasing the old content for conflict!!!
 
 fixing the bug
