@@ -1,3 +1,4 @@
+#bug-fix 
 Hello World!
 erasing the old content..##%% for conflict!!!
 
@@ -5,3 +6,4 @@ fixing the bug for conflict!!!!!!!!!!
 
 this is different.
 
+stashing this file 
